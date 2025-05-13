@@ -82,5 +82,7 @@ Feel free to fork the repo, explore more models, or optimize existing ones. PRs 
 
 ## 📧 Contact
 **Hard Pansara**
+
 GitHub: [Hardpansara](github.com/Hardpansara)
+
 Feel free to connect for collaborations or discussions around machine learning and data science!
